@@ -8,7 +8,7 @@ import static co.falabella.com.ui.CarritoUI.INPUT_CANTIDAD_CAR;
 import static co.falabella.com.ui.CarritoUI.LBL_PROD_CAR;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
-public class ObtenerNomProd implements Interaction {
+public class ObtenerValorElemento implements Interaction {
     private static String cantidadProdCarrito;
     private static String nomProdCarrito;
 
@@ -17,15 +17,17 @@ public class ObtenerNomProd implements Interaction {
 
         cantidadProdCarrito = INPUT_CANTIDAD_CAR.resolveFor(actor).getValue();
         nomProdCarrito = LBL_PROD_CAR.resolveFor(actor).getText();
+    }
 
+    public static Performable nombre() {
+        return instrumented(ObtenerValorElemento.class);
     }
-    public static Performable nombre(){
-        return  instrumented(ObtenerNomProd.class);
-    }
-    public static String carrito() {
+
+    public static String nombreProducto() {
         return nomProdCarrito;
     }
-    public static String getCantidadProd() {
+
+    public static String cantidadProductCarrito() {
         return cantidadProdCarrito;
     }
 }

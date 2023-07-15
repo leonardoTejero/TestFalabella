@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0443d430-9f0d-489f-8076-e31a79f3cca2" name="Changes" comment="" />
+    <list default="true" id="0443d430-9f0d-489f-8076-e31a79f3cca2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/interactions/ClickProductoAleatorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/interactions/ClickProductoAleatorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/interactions/MoverElemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/interactions/MoverElemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/interactions/ObtenerValorElemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/interactions/ObtenerValorElemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/questions/ValidarCantidadProd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/questions/ValidarCantidadProd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/questions/ValidarNomProdQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/questions/ValidarNomProdQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/tasks/HomeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/tasks/HomeTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/tasks/ListaResultadosTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/tasks/ListaResultadosTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/tasks/ProductoTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/tasks/ProductoTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/CarritoUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/CarritoUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/HomeUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/HomeUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/ListaResultadosUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/ListaResultadosUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/ProductoUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/ui/ProductoUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/utils/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/utils/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/falabella/com/utils/Excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/falabella/com/utils/Excel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/falabella/com/runners/AgregarAlCarritoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/falabella/com/runners/AgregarAlCarritoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/falabella/com/stepDefinitions/AgregarAlCarritoStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/falabella/com/stepDefinitions/AgregarAlCarritoStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/AgregarAlCarrito.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/AgregarAlCarrito.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,18 +41,77 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2S9uN5cO4fJwykiJIq8lp798RvR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Proyectos/Testing/Falabella/src/test/resources&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Proyectos\Testing\Falabella\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Proyectos\Testing\Falabella\src\test\resources\Data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.falabella.com.utils" />
+      <recent name="co.falabella.com.interactions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AgregarAlCarritoRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;co.falabella.com.runners.AgregarAlCarritoRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AgregarAlCarritoRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,5 +122,16 @@
       <updated>1688571077248</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
